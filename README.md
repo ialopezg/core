@@ -1,7 +1,7 @@
 # Core Libraries and Functions
 
 [![Total Downloads](https://img.shields.io/packagist/dt/ialopezg/core.svg?style=flat-square)](https://packagist.org/packages/ialopezg/core)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE.txt)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 
 Core utilities and base libraries for PHP.
 
@@ -10,7 +10,7 @@ Core utilities and base libraries for PHP.
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#basic-usage)
+- [Usage instructions](#usage-instructions)
     - [IteratorObject](#iteratorobject)
 - [License](#license)
 
