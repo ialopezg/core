@@ -1,5 +1,6 @@
 {
     "name": "ialopezg/core",
+    "description": "Core utilities and base libraries for PHP",
     "license": "MIT",
     "authors": [
         {

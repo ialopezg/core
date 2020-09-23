@@ -3,7 +3,7 @@
 namespace ialopezg\Core;
 
 /**
- * Class for array or iterable objects manipulation.
+ * Library for array or iterable objects manipulation.
  *
  * @package ialopezg\Core
  */
