@@ -1,0 +1,18 @@
+{
+    "name": "ialopezg/core",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Isidro A. López G.",
+            "email": "me@ialopezg.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "ialopezg\\Core\\": "src/"
+        }
+    }
+}
